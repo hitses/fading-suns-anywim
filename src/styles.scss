@@ -84,6 +84,7 @@ video {
   border: 0;
   font-size: 100%;
   font: inherit;
+  font-family: inherit;
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
@@ -122,3 +123,13 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+// ======================================================== Global configuration
+
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap");
+
+$oxygen: "Oxygen", sans-serif;
+$primary: #0a0a0a;
+$secondary: #f5f5f5;
+
+// ======================================================== Global configuration
