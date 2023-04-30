@@ -1,7 +1,17 @@
 <nav>
-  <ul>
+  <i
+    *ngIf="!mostrarMenu"
+    class="fa-solid fa-bars icon"
+    (click)="toogleMenu()"
+  ></i>
+  <i
+    *ngIf="mostrarMenu"
+    class="fa-solid fa-xmark icon"
+    (click)="toogleMenu()"
+  ></i>
+  <ul *ngIf="mostrarMenu">
     <li>
-      <a routerLink="/">Inicio</a>
+      <a href="/">Inicio</a>
     </li>
     <app-desplegable titulo="Universo" [urls]="universo"></app-desplegable>
     <app-desplegable titulo="Personajes" [urls]="personajes"></app-desplegable>

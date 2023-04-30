@@ -1,7 +1,14 @@
-p {
-  cursor: pointer;
-}
-
-a {
-  display: inline-block;
+li {
+  ul {
+    p {
+      cursor: pointer;
+    }
+    li {
+      a {
+        display: block;
+        margin: 10px 0;
+        margin-left: 10px;
+      }
+    }
+  }
 }

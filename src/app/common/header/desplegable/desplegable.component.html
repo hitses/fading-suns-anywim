@@ -2,9 +2,7 @@
   <ul>
     <p (click)="toogle()">{{ titulo }}</p>
     <li *ngIf="desplegable">
-      <a *ngFor="let url of urls" routerLink="{{ url.link }}">{{
-        url.nombre
-      }}</a>
+      <a *ngFor="let url of urls" href="{{ url.link }}">{{ url.nombre }}</a>
     </li>
   </ul>
 </li>

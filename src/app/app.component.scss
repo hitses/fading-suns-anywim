@@ -1,20 +1,11 @@
 #main {
   display: flex;
   header {
-    width: 10%;
-  }
-  div {
-    width: 90%;
-    padding: 15px 10%;
-  }
-}
-
-@media (max-width: 999px) {
-  header {
-    display: none;
+    position: fixed;
+    height: 100vh;
   }
   div {
     width: 100%;
-    padding: 15px 0;
+    padding: 15px 10%;
   }
 }

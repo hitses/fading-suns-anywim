@@ -28,4 +28,10 @@ export class HeaderComponent {
       nombre: 'Puntos',
     },
   ];
+
+  mostrarMenu: boolean = false;
+
+  toogleMenu() {
+    this.mostrarMenu = !this.mostrarMenu;
+  }
 }

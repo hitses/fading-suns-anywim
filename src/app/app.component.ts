@@ -10,6 +10,4 @@ import { HeaderComponent } from './common/header/header.component';
   standalone: true,
   imports: [HeaderComponent, FooterComponent, RouterOutlet],
 })
-export class AppComponent {
-  title = 'fading-suns-anywim';
-}
+export class AppComponent {}

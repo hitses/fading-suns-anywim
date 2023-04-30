@@ -1,13 +1,19 @@
 nav {
-  display: flex;
   user-select: none;
+  i {
+    margin: 10px;
+  }
   ul {
-    li {
-      a {
-        img {
-          max-width: 100%;
-        }
-      }
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 70vw;
+  }
+}
+
+@media (min-width: 1000px) {
+  nav {
+    ul {
+      width: 20vw;
     }
   }
 }
