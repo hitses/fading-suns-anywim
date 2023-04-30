@@ -1,23 +1,12 @@
 nav {
   display: flex;
+  user-select: none;
   ul {
     li {
       a {
         img {
           max-width: 100%;
         }
-      }
-      ul {
-        display: none;
-      }
-      p:hover {
-        position: relative;
-      }
-    }
-    li:hover {
-      ul {
-        display: inline-block;
-        padding-left: 10px;
       }
     }
   }

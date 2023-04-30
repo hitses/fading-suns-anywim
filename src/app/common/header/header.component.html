@@ -3,35 +3,7 @@
     <li>
       <a routerLink="/">Inicio</a>
     </li>
-    <li>
-      <p>Universo</p>
-      <ul>
-        <li><a routerLink="/universo/historia">Historia</a></li>
-      </ul>
-    </li>
-    <li>
-      <p>Personajes</p>
-      <ul>
-        <li><a routerLink="/personajes/puntos">Puntos</a></li>
-      </ul>
-    </li>
+    <app-desplegable titulo="Universo" [urls]="universo"></app-desplegable>
+    <app-desplegable titulo="Personajes" [urls]="personajes"></app-desplegable>
   </ul>
-
-  <!-- <ul>
-    <li class="nivel1">
-      <a routerLink="/">Home</a>
-    </li>
-    <li class="nivel1">
-      <p class="nivel1">Universo</p>
-      <ul class="nivel2">
-        <li><a routerLink="/universo/historia">Historia</a></li>
-      </ul>
-    </li>
-    <li class="nivel1">
-      <p class="nivel1">Personajes</p>
-      <ul class="nivel2">
-        <li><a routerLink="/personajes/puntos">Puntos</a></li>
-      </ul>
-    </li>
-  </ul> -->
 </nav>
