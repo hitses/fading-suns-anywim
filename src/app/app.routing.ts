@@ -2,9 +2,9 @@ import { Routes } from '@angular/router';
 
 export const routes: Routes = [
   {
-    path: '',
-    pathMatch: 'full',
-    loadComponent: () => import('./app.component').then((m) => m.AppComponent),
+    path: 'universo',
+    loadComponent: () =>
+      import('./universo/main.component').then((m) => m.MainComponent),
   },
   {
     path: '**',
