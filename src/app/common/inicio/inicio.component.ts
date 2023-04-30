@@ -5,19 +5,19 @@ import { Subscription } from 'rxjs';
 import { MarkdownModule } from 'ngx-markdown';
 
 @Component({
-  selector: 'app-main',
+  selector: 'app-inicio',
   standalone: true,
   imports: [CommonModule, MarkdownModule],
-  templateUrl: './main.component.html',
-  styleUrls: ['./main.component.scss'],
+  templateUrl: './inicio.component.html',
+  styleUrls: ['./inicio.component.scss'],
 })
-export class MainComponent {
+export class InicioComponent {
   private sub!: Subscription;
   post!: string;
 
   constructor(private route: ActivatedRoute) {
-    this.sub = this.route.params.subscribe((params) => {
-      this.post = './assets/blog/' + params['id'] + '.md';
+    this.sub = this.route.params.subscribe(() => {
+      this.post = './assets/inicio.md';
     });
   }
 

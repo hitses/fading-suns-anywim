@@ -2,34 +2,25 @@ import { Routes } from '@angular/router';
 
 export const routes: Routes = [
   {
-    path: 'universo',
+    path: '',
+    pathMatch: 'full',
     loadComponent: () =>
-      import('./universo/main.component').then((m) => m.MainComponent),
+      import('./common/inicio/inicio.component').then((m) => m.InicioComponent),
+  },
+  {
+    path: 'universo/:id',
+    loadComponent: () =>
+      import('./universo/universo.component').then((m) => m.UniversoComponent),
+  },
+  {
+    path: 'personajes/:id',
+    loadComponent: () =>
+      import('./personajes/personajes.component').then(
+        (m) => m.PersonajesComponent
+      ),
   },
   {
     path: '**',
     redirectTo: '',
   },
 ];
-
-// import { Routes } from '@angular/router';
-
-// export const routes: Routes = [
-//   {
-//     path: '',
-//     pathMatch: 'full',
-//     loadComponent: () =>
-//       import('./blog/menu/menu.component').then((m) => m.MenuComponent),
-//   },
-//   {
-//     path: ':id',
-//     loadComponent: () =>
-//       import('./blog/article/article.component').then(
-//         (m) => m.ArticleComponent
-//       ),
-//   },
-//   {
-//     path: '**',
-//     redirectTo: '',
-//   },
-// ];
