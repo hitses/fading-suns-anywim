@@ -1,11 +1,53 @@
 #main {
   display: flex;
   header {
-    position: fixed;
-    height: 100vh;
+    nav {
+      height: 100vh;
+      user-select: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      overflow-y: scroll;
+      i {
+        margin-top: 25px;
+        margin-left: 12px;
+      }
+      .menu1 {
+        width: 60vw;
+        margin-top: 10px;
+        margin-left: 10px;
+        .menu2 {
+          margin-left: 10px;
+          .menu3 {
+            margin-left: 10px;
+            .element3 {
+              margin-top: 10px;
+            }
+          }
+        }
+      }
+    }
   }
   div {
     width: 100%;
     padding: 15px 10%;
+  }
+}
+
+// @media (min-width: 550px) {
+//   .menu1 {
+//     width: 30vw;
+//   }
+// }
+
+@media (min-width: 550px) {
+  #main {
+    header {
+      nav {
+        .menu1 {
+          width: 30vw;
+        }
+      }
+    }
   }
 }
