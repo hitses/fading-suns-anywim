@@ -1,0 +1,3 @@
+# Prólogo
+
+La crónica de la historia de la humanidad espacial es extensa y abarca un total de dos milenios. No se trata de una historia tranquila. Desde los codiciosos saqueos planetarios de los primeros colonos hasta las sangrientas batallas de las <a href="/personajes/puntos" target="_blank">Guerras del Emperador</a>, los humanos rara vez han descansado pacíficamente en el vacío. Han prosperado, han sufrido la derrota y se han arriesgado a recuperar la esperanza de nuevo. No han viajado solos por los caminos de la historia; los alienígenas también han caminado con ellos, con sus largas historias y sus propios destinos por resolver. Para comprender dónde se encuentra la humanidad ahora, uno debe mirar a los comienzos.
