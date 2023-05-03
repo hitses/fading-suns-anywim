@@ -138,5 +138,33 @@ export const environment = {
       url: 'ortodoxia-de-la-terra',
       name: 'Ortodoxia de la Terra',
     },
+    {
+      url: 'hermano-de-batalla',
+      name: 'Hermano de Batalla',
+    },
+    {
+      url: 'la-orden-eskatonica',
+      name: 'La Orden Eskatonica',
+    },
+    {
+      url: 'el-templo-de-avesta',
+      name: 'El Templo de Avesta (Avestitas)',
+    },
+    {
+      url: 'santuario-de-aeon',
+      name: 'Santuario de Aeón',
+    },
+    {
+      url: 'monjes-mendicantes',
+      name: 'Monjes Mendicantes (Hesicastos)',
+    },
+    {
+      url: 'conflictos-sectarios',
+      name: 'Conflictos sectarios',
+    },
+    {
+      url: 'la-inquisicion',
+      name: 'La Inquisición',
+    },
   ],
 };
