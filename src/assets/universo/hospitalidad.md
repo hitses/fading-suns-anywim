@@ -1,0 +1,11 @@
+# Hospitalidad
+
+Los más cínicos dicen que la principal razón para la norma de hospitalidad es la de proteger a los noblescuando matan a sus invitados. Ya que estas leyes detallan no sólo la obligación de los anfitriones hacia sus invitados sino también a la inversa, resulta sencillo encontrar alguna falta que uno u otro haya cometido. Esta falta puede ser castigada por la parte ofendida como crea oportuno y pueda llevarlo a cabo.
+
+Hay una enorme cantidad de variables en las normas de hospitalidad. ¿Fue la persona invitada? ¿Trajo séquito consigo? ¿Ha estado alguna vez involucrada sentimentalmente con el anfitrión? ¿Cuán importante es la visita? El hecho es que cada Casa de la nobleza, y cada rama dentro de cada casa, tiene sus propias normas haciendo la hospitalidad incluso más compleja.
+
+Algunas cosas, sin embargo, son sagradas. Una vez es invitada una persona a la casa de un noble, no importa cuál sea su rango, el anfitrión queda obligado a defenderla de cualquier daño, sin importar de dónde pudiera venir. Además debe asegurar en gran medida una estancia agradable, si no lujosa. Tener fama de anfitrión generoso es extremadamente importante para casi todos los nobles.
+
+Del mismo modo, los invitados se abstendrán de realizar ninguna acción que pueda mostrar desprecio hacia su anfitrión. Todo aquello que su anfitrión pueda pedirles debe ser realizado, a menos que suponga un riesgo para su propia persona. Por ejemplo, si un anfitrión pidiera a sus invitados de paso que escoltasen a su hija a un baile Imperial, éstos deberían sentirse obligados a ello. Naturalmente el anfitrión podría haber olvidado comentar que su hija ofendió hace poco al embajador Ur-Ukar, pero eso no tiene por qué ser necesariamente un problema...
+
+Otras normas detallan cuán valioso ha de ser el regalo ofrecido a la familia anfitriona, basándose tanto en la posición social tanto del ofertante como del receptor, cuál debe ser la calidad de la hospitalidad para cada visitante e incluso cuánto tiempo se quedarán los invitados. La gente común se siente completamente perdida en estas prácticas. ;Por qué ha de ser el regalo de un duque a un caballero más valioso que el presente de un barón hacia un marqués?

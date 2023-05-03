@@ -1,1 +1,138 @@
-export const environment = {};
+export const environment = {
+  universeLinks: [
+    {
+      url: 'prologo',
+      name: 'Prólogo',
+    },
+    {
+      url: 'prehistoria',
+      name: 'Prehistoria',
+    },
+    {
+      url: 'Primera República',
+      name: 'Primera República',
+    },
+    {
+      url: 'portal-de-salto',
+      name: 'El portal de Salto',
+    },
+    {
+      url: 'la-diaspora',
+      name: 'La Diáspora',
+    },
+    {
+      url: 'el-profeta-y-su-iglesia',
+      name: 'El Profeta y su Iglesia',
+    },
+    {
+      url: 'primer-contacto-los-shantor',
+      name: 'Primer contacto: los Shantor',
+    },
+    {
+      url: 'los-vau',
+      name: 'Los Vau',
+    },
+    {
+      url: 'la-guerra-de-los-ukar',
+      name: 'La guerra de los Ukar',
+    },
+    {
+      url: 'orden-del-caos',
+      name: 'Orden del Caos',
+    },
+    {
+      url: 'la-segunda-republica',
+      name: 'La Segunda República',
+    },
+    {
+      url: 'el-despojamiento',
+      name: 'El Despojamiento',
+    },
+    {
+      url: 'la-nueva-edad-oscura',
+      name: 'La Nueva Edad Oscura',
+    },
+    {
+      url: 'las-invasiones-barbaras',
+      name: 'Las Invasiones Bárbaras',
+    },
+    {
+      url: 'vladimir-une-las-estrellas',
+      name: 'Vladimir une las estrellas',
+    },
+    {
+      url: 'la-guerra-simbionte',
+      name: 'La Guerra Simbionte',
+    },
+    {
+      url: 'las-guerras-del-emperador',
+      name: 'Las Guerras del Emperador',
+    },
+    {
+      url: 'la-consolidación',
+      name: 'La Consolidación',
+    },
+  ],
+  societyLinks: [
+    {
+      url: 'la-vida-entre-los-fading-suns',
+      name: 'La vida entre los Fading Suns',
+    },
+  ],
+  housesLinks: [
+    {
+      url: 'hawkwood',
+      name: 'Hawkwood',
+    },
+    {
+      url: 'decados',
+      name: 'Decados',
+    },
+    {
+      url: 'hazat',
+      name: 'Hazat',
+    },
+    {
+      url: 'li-halan',
+      name: 'Li Halán',
+    },
+    {
+      url: 'casas-menores',
+      name: 'Casas menores',
+    },
+    {
+      url: 'sequito',
+      name: 'Séquito',
+    },
+    {
+      url: 'alta-etiqueta',
+      name: 'Alta etiqueta',
+    },
+    {
+      url: 'amor-cortesano',
+      name: 'Amor cortesano',
+    },
+    {
+      url: 'hospitalidad',
+      name: 'Hospitalidad',
+    },
+    {
+      url: 'duelos',
+      name: 'Duelos',
+    },
+    {
+      url: 'el-emperador',
+      name: 'El Emperador',
+    },
+    {
+      url: 'el-ojo-imperial',
+      name: 'El Ojo Imperial',
+    },
+  ],
+  churchLinks: [
+    {
+      url: 'ortodoxia-de-la-terra',
+      name: 'Ortodoxia de la Terra',
+    },
+  ],
+};

@@ -155,8 +155,22 @@ p {
   line-height: 25px;
 }
 
+li {
+  line-height: 25px;
+}
+
 a {
   color: $link;
   text-decoration: none;
   font-size: 20px;
+}
+
+strong {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+li {
+  font-size: 20px;
+  margin: 10px 0;
 }

@@ -26,6 +26,32 @@
                 </li>
               </ul>
             </li>
+            <li class="element2">
+              <p (click)="toggleSociety()">Sociedad</p>
+              <ul class="menu menu3" *ngIf="showSociety">
+                <li *ngFor="let link of societyLinks" class="element3">
+                  <a href="/universo/{{ link.url }}">{{ link.name }}</a>
+                </li>
+                <li class="element3">
+                  <p (click)="toggleHouses()">Casas nobles</p>
+                  <ul class="menu menu4" *ngIf="showHouses">
+                    <li *ngFor="let link of housesLinks" class="element4">
+                      <a href="/universo/{{ link.url }}">{{ link.name }}</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="element3">
+                  <p (click)="toggleChurch()">
+                    La Iglesia Universal del Sol Celestial
+                  </p>
+                  <ul class="menu menu4" *ngIf="showChurch">
+                    <li *ngFor="let link of churchLinks" class="element4">
+                      <a href="/universo/{{ link.url }}">{{ link.name }}</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
           </ul>
         </li>
       </ul>

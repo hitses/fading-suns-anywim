@@ -1,0 +1,13 @@
+# El Emperador
+
+La persona más poderosa de los Mundos Conocidos es el Emperador Alexius, antaño cabeza de la Casa Hawkwood. Aunque todavía mantiene fuertes lazos con su casa, ha renunciado a su liderazgo para poder llevar el papel de emperador libre de ataduras del pasado. Los críticos de Alexis dicen que trata meramente de establecer dos poderosas fuerzas que le aseguren su gobierno, una los ejércitos del Emperador y la otra las legiones de su Casa.
+
+El hogar actual de Alexius es Byzantium Secundus, el centro histórico de la política interestelar. Aunque oficialmente controla menos planetas que cualquier otra casa, su poder actual es excepcional. La manifestación más obvia de su fuerza es la Guardia Imperial, una de las tropas mejor equipadas y entrenadas de la historia de la humanidad. Sus otros poderes son más sutiles, y más poderosos.
+
+El Emperador Alexis controla oficialmente la red imperial de tributos, su ejército de estudiosos e historiadores tratando afanosamente de reconstruir las antiguas tecnologías, sus muchas agencias de seguridad y espionaje, y la mayor colección de los Mundos Conocidos de Piedras del Filósofo (poderosos artefactos Ur). Todas las Casas Reales le han prometido lealtad y están obligadas a prestarle asistencia en el momento en que se la pida. Sin embargo, la forma que pueda tomar esta asistencia no ha sido determinada.
+
+Alexius todavía está definiendo su papel de Emperador. Ha anunciado planes para consolidar más su poder y posición, y está preparando las bases de una guerra contra los bárbaros. Una guerra que él lideraría y cuyas tropas le deberían lealtad. Las Casas Reales no tienen intención de entregarle permanentemente el control de sus ejércitos, así que nadie sabe con certeza qué ocurrirá. Los acontecimientos de los próximos años tendrán una repercusión muy importante en el equilibrio de poderes de los tiempos venideros.
+
+Para auxiliarse en este esfuerzo, el Emperador ha lanzado una llamada a los nobles sin tierras que quieran unírsele, dando a entender que encontrarán nuevos territorios en planetas inexplorados. Su reclamo ha atraído principalmente a antiguos aliados, si bien algunos miembros de otras familias también se han embarcado en el proyecto. Incluso unos pocos miembros de casas menores se han unido a él, esperando la oportunidad de reconstruir sus propias dinastías bajo su bandera.
+
+Existe un grupo secreto de místicos, soldados y ciudadanos de todas las clases que ven al Emperador Alexius como su Dios-Emperador, su salvador y el que volverá a encender los soles moribundos. El Emperador mantiene el silencio en esta materia, pero la Iglesia ha dejado claro que esa idea es una herejía. Los Inquisidores están buscando a los líderes del culto.
