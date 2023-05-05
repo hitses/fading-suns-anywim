@@ -174,3 +174,37 @@ li {
   font-size: 20px;
   margin: 10px 0;
 }
+
+// ======================================================== Table configuration
+
+// .table-container {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+// }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0 auto;
+}
+
+thead th {
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+tbody tr:hover {
+  background-color: #eee;
+}
+
+tbody td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+// ======================================================== Table configuration

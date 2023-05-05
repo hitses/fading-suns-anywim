@@ -72,6 +72,10 @@ export const environment = {
       url: 'la-consolidación',
       name: 'La Consolidación',
     },
+    {
+      url: 'línea-cronologica',
+      name: 'Línea cronológica',
+    },
   ],
   societyLinks: [
     {
