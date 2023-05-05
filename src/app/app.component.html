@@ -58,6 +58,14 @@
                     </li>
                   </ul>
                 </li>
+                <li class="element3">
+                  <p (click)="toggleAliens()">Alienígenas</p>
+                  <ul class="menu menu4" *ngIf="showAliens">
+                    <li *ngFor="let link of aliensLinks" class="element4">
+                      <a href="/universo/{{ link.url }}">{{ link.name }}</a>
+                    </li>
+                  </ul>
+                </li>
               </ul>
             </li>
           </ul>

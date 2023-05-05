@@ -78,6 +78,10 @@ export const environment = {
       url: 'la-vida-entre-los-fading-suns',
       name: 'La vida entre los Fading Suns',
     },
+    {
+      url: 'mitos-y-leyendas',
+      name: 'Mitos y leyendas',
+    },
   ],
   housesLinks: [
     {
@@ -207,6 +211,44 @@ export const environment = {
     {
       url: 'pirateria',
       name: 'Piratería',
+    },
+  ],
+  aliensLinks: [
+    {
+      url: 'los-hijos-de-los-ur',
+      name: 'Los Hijos de los Ur',
+    },
+    {
+      url: 'ur-obun',
+      name: 'Ur-Obún',
+    },
+    {
+      url: 'ur-ukar',
+      name: 'Ur-Ukar',
+    },
+    {
+      url: 'vorox',
+      name: 'Vórox',
+    },
+    {
+      url: 'otras-razas',
+      name: 'Otras razas',
+    },
+    {
+      url: 'xenofobia',
+      name: 'Xenofobia',
+    },
+    {
+      url: 'alianzas',
+      name: 'Alianzas',
+    },
+    {
+      url: 'vau',
+      name: 'Los Vau',
+    },
+    {
+      url: 'simbiontes',
+      name: 'Simbiontes',
     },
   ],
 };

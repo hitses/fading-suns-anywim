@@ -1,0 +1,17 @@
+# Simbiontes
+
+Multiformes. Parásitos. Bestias inmundas que transforman amigos en enemigos. Estas son varios de los hechos y/o creencias que tienen los humanos sobre los Simbiontes, pero poco se conocer realmente sobre esta nueva raza y gran amenaza hacia la hegemonía humana en los Mundos Conocidos.
+
+Los Simbiontes dicen percibir los «hilos de la vida» a lo largo del espacio, entrelazándose y ondeando hacia el interior profundo de los planetas y a través de las estrellas. Aparentemente han aparecido para reclamar los supremos derechos de caza sobre su cadena alimenticia, o quizá la protegen de todo mal. Cada Simbionte es una criatura única, y encuentran difícil colaborar con sus compañeros. No obstante, se han desarrollado tribus o clanes, pero nada saben los humanos de estos grupos familiares. Se aparean entre ellos, creando líneas de sangre y seleccionando los rasgos genéticos dominantes pero también «convierten» otras razas (humanos, Ur-Obun o Ukar, Vorox). Dicen que la conversión es voluntaria una vez que la victima ha sentido red de vida pero, por el momento, los moradores de los mundos Conocidos rechazan estas afirmaciones. Han visto de primera mano lo que sucede a sus amigos y familiares una vez convertidos: se transforman en bestiales maquinas de matar o seductores parásitos.
+
+Los Simbiontes tienen una forma base, aquella con la que están más en concordancia: usualmente está ligada a unas especies particulares de flora o fauna, como un roble o un oso. Molecularmente son amorfos (multiformes) y dicen tener una relación mística especial con el universo. Algunos incluso afirman haber despertado su conciencia celular y existir en más de una dimensión
+
+Se cree que los Xolotl, una de las dos razas que engendraron a los Simbiontes, están extintos. Supuestamente, aquellos que se hallaban en Chernoborg eran los restos de una raza espacial existente con anterioridad o las «mascotas» de una raza desaparecida que sembró muchos mundos con ellos (se han descubierto restos fósiles). No se ha encontrado ningún Xolotl desde su conversión inicial a Simbiontes, aunque el Ojo Imperial trata desesperadamente de encontrar uno para su estudio, con la esperanza de hallar la debilidad con la que hacer frente a los Simbiontes.
+
+## Apariencia
+
+La forma base de un Simbionte es una combinación organiza de un humano con un animal o un humano con una planta, siempre con un claro énfasis en el aspecto humano. Un Simbionte transformado en humano puede pasar desapercibido entre otros hombres mientras no se les preste una buena atención, pero quedarán al descubierto si se les ve desnudos a plena luz. Algunos aspectos siempre delatan su verdadera naturaleza, ya sea la piel, su caparazón, colmillos, garras, ojos felinos, hojas y ramas, cuernos, cola, etc. Sin embargo son multiformes y pueden tomar diferentes formas a voluntad. Los Simbiontes alienígenas, como los Ur-Obun o Vorox, presentan una forma similar a la original con algún rasgo animal o vegetal.
+
+## Tecnología
+
+La tecnología Simbionte es orgánica y posee vida propia: armas y proyectiles vivos, espadas armaduras de carne Krinth, serpientes Shexeez que escupen ácido, etc. Crean este equipo vivo pero carente de inteligencia a partir de plantas o animales. Cada tribu tiene sus propios métodos y tecnología orgánica especial. Incluso sus naves espaciales son orgánicas (aunque poca gente ha visto estas extrañas moles insectoides).

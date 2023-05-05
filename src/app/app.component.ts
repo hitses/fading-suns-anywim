@@ -51,4 +51,10 @@ export class AppComponent {
   toggleGuild() {
     this.showGuild = !this.showGuild;
   }
+
+  aliensLinks = environment.aliensLinks;
+  showAliens: boolean = false;
+  toggleAliens() {
+    this.showAliens = !this.showAliens;
+  }
 }
