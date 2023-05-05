@@ -163,4 +163,46 @@ export const environment = {
       name: 'La Inquisición',
     },
   ],
+  guildLinks: [
+    {
+      url: 'los-aurigas',
+      name: 'Los Aurigas',
+    },
+    {
+      url: 'la-suprema-orden-de-ingenieros',
+      name: 'La Suprema Orden de Ingenieros',
+    },
+    {
+      url: 'los-carroñeros',
+      name: 'Los Carroñeros',
+    },
+    {
+      url: 'la-asamblea',
+      name: 'La Asamblea',
+    },
+    {
+      url: 'los-magistrados',
+      name: 'Los Magistrados',
+    },
+    {
+      url: 'los-gremios-menores',
+      name: 'Los gremios menores',
+    },
+    {
+      url: 'independientes',
+      name: 'Independientes',
+    },
+    {
+      url: 'territorialidad-de-los-gremios',
+      name: 'Territorialidad de los gremios',
+    },
+    {
+      url: 'academia-interatta',
+      name: 'Academia Interatta',
+    },
+    {
+      url: 'pirateria',
+      name: 'Piratería',
+    },
+  ],
 };

@@ -50,6 +50,14 @@
                     </li>
                   </ul>
                 </li>
+                <li class="element3">
+                  <p (click)="toggleGuild()">Los Gremios</p>
+                  <ul class="menu menu4" *ngIf="showGuild">
+                    <li *ngFor="let link of guildLinks" class="element4">
+                      <a href="/universo/{{ link.url }}">{{ link.name }}</a>
+                    </li>
+                  </ul>
+                </li>
               </ul>
             </li>
           </ul>

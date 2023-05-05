@@ -45,4 +45,10 @@ export class AppComponent {
   toggleChurch() {
     this.showChurch = !this.showChurch;
   }
+
+  guildLinks = environment.guildLinks;
+  showGuild: boolean = false;
+  toggleGuild() {
+    this.showGuild = !this.showGuild;
+  }
 }
