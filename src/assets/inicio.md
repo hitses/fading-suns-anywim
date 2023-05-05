@@ -16,7 +16,7 @@ Es en este universo donde deben vivir hombres y mujeres. Sólo unos pocos de ell
 
 ## Un juego de pasiones futuristas
 
-Fading Suns es sobre todo un juego de ciencia-ficción, lo que significa que hay naves espaciales, blasters, armaduras mecánicas, razas alienígenas, y ciencia sobrenatural. Pero existen también muchos elementos de los juegos de fantasía tradicional: personajes heroicos y sus conflictos, una estructura sociopolítica (nobles señores, altos religiosos e impetuosos mercaderes), poderosos artefactos y grandes misterios. También existe el horror: monstruos y desesperantes descubrimientos que revelan terroríficas verdades metafísicas.
+Fading Suns es sobre todo un juego de ciencia-ficción, lo que significa que hay naves espaciales, blasters, armaduras mecánicas, razas alienígenas y ciencia sobrenatural. Pero existen también muchos elementos de los juegos de fantasía tradicional: personajes heroicos y sus conflictos, una estructura sociopolítica (nobles señores, altos religiosos e impetuosos mercaderes), poderosos artefactos y grandes misterios. También existe el horror: monstruos y desesperantes descubrimientos que revelan terroríficas verdades metafísicas.
 
 El pocas palabras, Fading Suns es un juego que tiene todo lo que un universo de rol necesita para narrar historias de una variedad y exotismo como podrías encontrar en el más recóndito de los lugares - en nuestro propio mundo, aquí y ahora. ¿Porque tendríamos que crear universos más restringidos que el mundo real? Haciéndolo, sólo nos privamos de las historias que nos han legado las generaciones pasadas desde todos los rincones de la tierra. Nos debemos a nosotros mismos el hacer nuestros mundos tan ricos, vivos y complejos (incluso locos) como éste que tenemos frente a nosotros.
 
