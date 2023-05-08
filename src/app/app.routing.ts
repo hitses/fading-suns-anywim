@@ -15,7 +15,44 @@ export const routes: Routes = [
   {
     path: 'universo/historia/:id',
     loadComponent: () =>
-      import('./historia/historia.component').then((m) => m.HistoriaComponent),
+      import('./universo/historia/historia.component').then(
+        (m) => m.HistoriaComponent
+      ),
+  },
+  {
+    path: 'universo/sociedad/:id',
+    loadComponent: () =>
+      import('./universo/sociedad/sociedad.component').then(
+        (m) => m.SociedadComponent
+      ),
+  },
+  {
+    path: 'universo/sociedad/alienigenas/:id',
+    loadComponent: () =>
+      import('./universo/sociedad/alienigenas/alienigenas.component').then(
+        (m) => m.AlienigenasComponent
+      ),
+  },
+  {
+    path: 'universo/sociedad/casas-nobles/:id',
+    loadComponent: () =>
+      import('./universo/sociedad/casas-nobles/casas-nobles').then(
+        (m) => m.CasasNoblesComponent
+      ),
+  },
+  {
+    path: 'universo/sociedad/la-iglesia-universal-del-sol-celestial/:id',
+    loadComponent: () =>
+      import(
+        './universo/sociedad/la-iglesia-universal-del-sol-celestial/la-iglesia-universal-del-sol-celestial.component'
+      ).then((m) => m.LaIglesiaUniversalDelSolCelestialComponent),
+  },
+  {
+    path: 'universo/sociedad/los-gremios/:id',
+    loadComponent: () =>
+      import('./universo/sociedad/los-gremios/los-gremios.component').then(
+        (m) => m.LosGremiosComponent
+      ),
   },
   {
     path: 'personajes/:id',

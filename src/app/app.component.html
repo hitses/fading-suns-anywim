@@ -32,13 +32,18 @@
               <p (click)="toggleSociety()">Sociedad</p>
               <ul class="menu menu3" *ngIf="showSociety">
                 <li *ngFor="let link of societyLinks" class="element3">
-                  <a href="/universo/{{ link.url }}">{{ link.name }}</a>
+                  <a href="/universo/sociedad/{{ link.url }}">{{
+                    link.name
+                  }}</a>
                 </li>
                 <li class="element3">
                   <p (click)="toggleHouses()">Casas nobles</p>
                   <ul class="menu menu4" *ngIf="showHouses">
                     <li *ngFor="let link of housesLinks" class="element4">
-                      <a href="/universo/{{ link.url }}">{{ link.name }}</a>
+                      <a
+                        href="/universo/sociedad/casas-nobles/{{ link.url }}"
+                        >{{ link.name }}</a
+                      >
                     </li>
                   </ul>
                 </li>
@@ -48,7 +53,12 @@
                   </p>
                   <ul class="menu menu4" *ngIf="showChurch">
                     <li *ngFor="let link of churchLinks" class="element4">
-                      <a href="/universo/{{ link.url }}">{{ link.name }}</a>
+                      <a
+                        href="/universo/sociedad/la-iglesia-universal-del-sol-celestial/{{
+                          link.url
+                        }}"
+                        >{{ link.name }}</a
+                      >
                     </li>
                   </ul>
                 </li>
@@ -56,7 +66,9 @@
                   <p (click)="toggleGuild()">Los Gremios</p>
                   <ul class="menu menu4" *ngIf="showGuild">
                     <li *ngFor="let link of guildLinks" class="element4">
-                      <a href="/universo/{{ link.url }}">{{ link.name }}</a>
+                      <a href="/universo/sociedad/los-gremios/{{ link.url }}">{{
+                        link.name
+                      }}</a>
                     </li>
                   </ul>
                 </li>
@@ -64,7 +76,9 @@
                   <p (click)="toggleAliens()">Alienígenas</p>
                   <ul class="menu menu4" *ngIf="showAliens">
                     <li *ngFor="let link of aliensLinks" class="element4">
-                      <a href="/universo/{{ link.url }}">{{ link.name }}</a>
+                      <a href="/universo/sociedad/alienigenas/{{ link.url }}">{{
+                        link.name
+                      }}</a>
                     </li>
                   </ul>
                 </li>
