@@ -13,6 +13,11 @@ export const routes: Routes = [
       import('./universo/universo.component').then((m) => m.UniversoComponent),
   },
   {
+    path: 'universo/historia/:id',
+    loadComponent: () =>
+      import('./historia/historia.component').then((m) => m.HistoriaComponent),
+  },
+  {
     path: 'personajes/:id',
     loadComponent: () =>
       import('./personajes/personajes.component').then(

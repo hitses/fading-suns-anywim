@@ -13,7 +13,7 @@ export const environment = {
       name: 'Primera República',
     },
     {
-      url: 'portal-de-salto',
+      url: 'el-portal-de-salto',
       name: 'El portal de Salto',
     },
     {

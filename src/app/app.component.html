@@ -22,7 +22,9 @@
               <p (click)="toggleHistory()">Historia</p>
               <ul class="menu menu3" *ngIf="showHistory">
                 <li *ngFor="let link of universeLinks" class="element3">
-                  <a href="/universo/{{ link.url }}">{{ link.name }}</a>
+                  <a href="/universo/historia/{{ link.url }}">{{
+                    link.name
+                  }}</a>
                 </li>
               </ul>
             </li>
