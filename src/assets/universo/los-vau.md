@@ -19,3 +19,7 @@ Esta revelación fue de gran ayuda para la humanidad en los tratos con los Vau d
 El encuentro con los Vau potenció el poder de la Iglesia, especialmente tras la muerte del Profeta en el accidente en un portal de salto del Espacio Vau. La humanidad tembló ante la amenaza de una raza alienígena de tecnología superior, aunque no fuera expansionista. La Iglesia de Palamedes los condujo unidos y alentó su confianza. La humanidad, después de todo había sido elegida para las estrellas. Era su destino. Dar media vuelta ahora sería fallar al Pancreator. Los argumentos de los sacerdotes dieron a los hombres un credo unificado, una doctrina universal de excelencia por la que había que seguir avanzando haciendo frente al desaliento. Resulta irónico que fuera la Iglesia la que diera a los hombres el empuje necesario para llegar demasiado lejos. La misma Iglesia que siglos después los reprendería por un destino así.
 
 El elemento que finalmente consolidaría el floreciente poder de la Iglesia llegó antes de que la noticia de la muerte del Profeta se extendiera por todos los mundos.
+
+<div class="container">
+  <img src="https://i.imgur.com/iIkqquq.png" alt="Los Vau">
+</div>

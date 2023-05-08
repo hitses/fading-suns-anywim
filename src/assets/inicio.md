@@ -1,8 +1,10 @@
-# Fading Suns
+# ![Fading Suns](https://i.imgur.com/8uUmkzo.png)
 
 Una vez los soles brillaban intensamente, faros en la vasta noche del espacio, impulsando a la humanidad hacia adelante. Las estrellas simbolizaron el inmenso potencial de la humanidad, un propósito y un destino revelado por el progreso, incitando a un éxodo de crecimiento ilimitado hacia las estrellas distantes. Una vez la gente miró hacia los cielos con esperanza y anhelo en sus ojos.
 
 Los soles, y la esperanza, comienzan a apagarse.
+
+Es el comienzo del sexto milenio después de Cristo y la historia llega a su final. Las grandes civilizaciones de la humanidad han caído, con un legado de ignorancia y miedo esparcidos entre las ruinas de muchos mundos. Una nueva Edad Oscura acecha a la humanidad y pocos creen en un nuevo renacer. Ahora sólo resta esperar. Aguardando una muerte lenta como las ancianas estrellas, exhaustas hasta sus cenizas, y las almas de los pecadores son llamadas al Juicio Final.
 
 Es el comienzo del sexto milenio después de Cristo y la historia llega a su final. Las grandes civilizaciones de la humanidad han caído, con un legado de ignorancia y miedo esparcidos entre las ruinas de muchos mundos. Una nueva Edad Oscura acecha a la humanidad y pocos creen en un nuevo renacer. Ahora sólo resta esperar. Aguardando una muerte lenta como las ancianas estrellas, exhaustas hasta sus cenizas, y las almas de los pecadores son llamadas al Juicio Final.
 
@@ -25,3 +27,7 @@ Como todos los juegos, Fading Suns debe entretener y divertir. Pero los juegos d
 Como la pasión medieval representa, Fading Suns trata los grandes temas universales de la experiencia humana. Su tema principal es la Búsqueda. Este es el papel mitológico que todos los héroes han tomado: el caballero con una misión, buscando poder para vencer a sus enemigos o secretos de autoconocimiento. El éxito o el fracaso en esta búsqueda no es tan importante como el conocimiento adquirido durante ella.
 
 La atmósfera de los dramas desarrollados en Fading Suns es de trágica ignorancia. La civilización está en declive, y la superstición y el miedo campan por todas partes. Nuevas ideas y fronteras son despreciadas por una población nerviosa, temerosa de qué el cambio que presenten pueda perjudicarles. Pero es justamente este tipo de ignorancia deseada la que previene a la civilización de un nuevo florecer. Es ese miedo el que mantiene la esperanza enterrada e impide lograr grandes desafíos. Los jugadores interpretan a los héroes que pueden romper las ataduras de esta ignorancia y traer algo nuevo y grande a su cultura, para despertar y fortalecer una vez más la vida.
+
+<div class="container">
+  <img src="https://i.imgur.com/ovo09WY.png" alt="Alustro">
+</div>

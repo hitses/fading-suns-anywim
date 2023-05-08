@@ -132,6 +132,7 @@ q:after {
   content: "";
   content: none;
 }
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -177,12 +178,6 @@ li {
 
 // ======================================================== Table configuration
 
-// .table-container {
-//   display: flex;
-//   justify-content: center;
-//   align-items: center;
-// }
-
 table {
   border-collapse: collapse;
   width: 100%;
@@ -198,13 +193,51 @@ thead th {
   text-align: left;
 }
 
-tbody tr:hover {
-  background-color: #eee;
-}
-
 tbody td {
   border: 1px solid #ddd;
   padding: 10px;
 }
 
 // ======================================================== Table configuration
+
+// ======================================================== Centered responsive images
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 10px 0;
+}
+
+// ======================================================== Centered responsive images
+
+// ======================================================== Flexbox content
+
+.img-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.img-container img {
+  width: 40%;
+  max-width: 400px;
+  height: auto;
+  margin-left: 20px;
+}
+
+.img-container p {
+  width: 55%;
+  text-align: justify;
+  margin-right: 20px;
+}
+
+// ======================================================== Flexbox content

@@ -76,6 +76,10 @@ export const environment = {
       url: 'línea-cronologica',
       name: 'Línea cronológica',
     },
+    {
+      url: 'los-discipulos-virtuosos',
+      name: 'Los Discípulos Virtuosos',
+    },
   ],
   societyLinks: [
     {
@@ -211,6 +215,10 @@ export const environment = {
     {
       url: 'pirateria',
       name: 'Piratería',
+    },
+    {
+      url: 'las-casas-seguras-de-los-gremios',
+      name: 'Las casas seguras de los gremios',
     },
   ],
   aliensLinks: [
