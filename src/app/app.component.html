@@ -86,6 +86,37 @@
             </li>
           </ul>
         </li>
+        <li class="element1">
+          <p (click)="toggleRules()">Reglas</p>
+          <ul class="menu menu2" *ngIf="showRules">
+            <li *ngFor="let link of rulesLinks" class="element2">
+              <a href="/reglas/{{ link.url }}">{{ link.name }}</a>
+            </li>
+            <li class="element2">
+              <p (click)="toggleInterpretingRules()">
+                Interpretando las reglas
+              </p>
+              <ul class="menu menu3" *ngIf="showInterpretingRules">
+                <li
+                  *ngFor="let link of interpretingRulesLinks"
+                  class="element3"
+                >
+                  <a href="/reglas/interpretando-las-reglas/{{ link.url }}">{{
+                    link.name
+                  }}</a>
+                </li>
+              </ul>
+            </li>
+            <li class="element2">
+              <p (click)="toggleActionsRules()">Acciones</p>
+              <ul class="menu menu3" *ngIf="showActionsRules">
+                <li *ngFor="let link of actionsRulesLinks" class="element3">
+                  <a href="/reglas/acciones/{{ link.url }}">{{ link.name }}</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
       </ul>
     </nav>
   </header>

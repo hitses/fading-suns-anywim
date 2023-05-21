@@ -1,0 +1,11 @@
+# Las reglas
+
+Recuerda siempre que el propósito de un juego de rol es el de proveer tanta cantidad de conflicto, drama, pasión y diversión total como sea posible. A diferencia de la mayoría de los juegos de mesa y de cartas, los juegos de rol no tratan sobre ganar o perder, sino que tratan sobre jugar y pasar un buen rato. El Director de Juego siempre debería moderar su interpretación de las reglas con un ojo puesto en el personaje, la emoción y el entretenimiento, incluso a expensas de un realismo estricto. Por ejemplo, un personaje está escalando una montaña de 10 kilómetros de alto. El personaje alcanza una escarpada traicionera y el Director de Juego pide al jugador hacer una tirada de Destreza + Vigor para ver si el personaje puede desplazarse sobre el acantilado. El personaje falla la tirada.
+
+Teóricamente, el Director de Juego puede decirle aljugador:“De acuerdo, tu personaje resbala y cae.Ha muerto”. No es del todo descabellado, ya que el hecho de escalar una montaña es peligroso, la gente de repente resbala y cae, y el personaje falló la tirada.
+
+Semejante resultado, sin embargo, no encaja con el espíritu de aventura heroica. Este hecho también es susceptible de irritar al jugador, y ya que los jugadores no deberían dirigir el juego, sus personajes tampoco deberían morir como si de un mosquito se tratase.
+
+Un mejor Director de Juego podría decir algo como: “Mientras vas tanteando para subir el acantilado, la agarradera que soporta tu peso se convierte en polvo. Escuchas un crujido, y toda la cara de la montaña se desintegra en un torrente de fragmentos de piedra sueltos. En cuanto comienzas a caer en picado hacia tu perdición, agitas tus brazos desesperadamente hacia lo que queda de roca, y tu mano izquierda se aferra a un saliente,deteniendo tu caída.Te encuentras suspendido sobre un abismo de 10.000 metros, sosteniéndote con una sola mano... y mientras alzas tu mirada hacia tu agarradera, ves unas grietas que están empezando a aparecer en el saliente. ¿Qué haces?”.
+
+Ambos desenlaces descritos arriba son resultados válidos para una tirada fallida. Ambos se ajustan a lo descrito en las reglas. Pero la segunda situación tiene mucho más suspense y da a los jugadores un mayor control sobre el desenlace final al aprieto de un personaje.

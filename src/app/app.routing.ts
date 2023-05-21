@@ -55,6 +55,25 @@ export const routes: Routes = [
       ),
   },
   {
+    path: 'reglas/:id',
+    loadComponent: () =>
+      import('./reglas/reglas.component').then((m) => m.ReglasComponent),
+  },
+  {
+    path: 'reglas/interpretando-las-reglas/:id',
+    loadComponent: () =>
+      import(
+        './reglas/interpretando-las-reglas/interpretando-las-reglas.component'
+      ).then((m) => m.InterpretandoLasReglasComponent),
+  },
+  {
+    path: 'reglas/acciones/:id',
+    loadComponent: () =>
+      import('./reglas/acciones/acciones.component').then(
+        (m) => m.AccionesComponent
+      ),
+  },
+  {
     path: 'personajes/:id',
     loadComponent: () =>
       import('./personajes/personajes.component').then(

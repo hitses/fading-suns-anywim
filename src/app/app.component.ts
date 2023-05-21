@@ -57,4 +57,22 @@ export class AppComponent {
   toggleAliens() {
     this.showAliens = !this.showAliens;
   }
+
+  rulesLinks = environment.rulesLinks;
+  showRules: boolean = false;
+  toggleRules() {
+    this.showRules = !this.showRules;
+  }
+
+  interpretingRulesLinks = environment.interpretingRulesLinks;
+  showInterpretingRules: boolean = false;
+  toggleInterpretingRules() {
+    this.showInterpretingRules = !this.showInterpretingRules;
+  }
+
+  actionsRulesLinks = environment.actionsRulesLinks;
+  showActionsRules: boolean = false;
+  toggleActionsRules() {
+    this.showActionsRules = !this.showActionsRules;
+  }
 }

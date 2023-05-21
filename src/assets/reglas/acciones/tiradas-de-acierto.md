@@ -1,0 +1,11 @@
+# Tiradas de acierto
+
+Siempre que el resultado de una acción esté en duda, el Director de Juego exige una tirada de acierto. Esta tirada se realiza usando 1d20. El jugador (o el Direc- tor de Juego en el caso de que se trate de personajes del propio DJ, o de fenómenos ambientales) debe sacar un resultado en este dado que sea igual o menor que el número asociado al acierto. El rango base de acierto de un jugador se determina añadiendo la pun- tuación de característica pertinente del personaje a su puntuación de habilidad. De este modo, si un perso- naje quisiera disparar una pistola contra un enemigo, y el personaje tiene una puntuación de Destreza de 7 y una puntuación de 6 en Armas de Fuego, el juga- dor necesitaría sacar un 13 o menos en 1d20 (7 + 6 = 13 es el acierto).
+
+Las cosas no siempre son tan simples. En muchos casos, la tirada de acierto es aumentada o disminuida por modificadores que van en función de la situación. Considera el caso de antes de la pistola que se disparó. La situación estaba en igualdad de condiciones, pero es más fácil acertar a un enemigo del tamaño de un dinosaurio, que a uno del tamaño de un conejo. Por tanto, el DJ puede asignar un bonificador al acierto del jugador si su personaje estaba intentando disparar a un rinoceronte desbocado, y también puede asig- nar un penalizador si el personaje estaba disparando a una rápida liebre.
+
+Con la práctica, los Directores de Juego pueden asignar con facilidad un modificador de dificultad apropiado a cualquier acción. Estos modificadores, junto a las habilidades de los personajes, dan pie a que se pueda producir cualquier situación en el universo. Los DJs principiantes deberían usar los bonificadores y penalizadores de ejemplo que se muestran a continuación como modelos para asig- nar las dificultades, pero tampoco deberían tener miedo a improvisar.
+
+Múltiples bonificadores y penalizadores pueden ser aplicados en una o varias acciones. Simplemente ves sumando y restando hasta que se alcance un resul- tado final.
+
+Cualquier tirada igual o menor al número de acierto supone un éxito, pero un jugador cuya acción sea un éxito, debería recordar el número exacto que sacó en su tirada. Esto es importante para calcular niveles adicionales de éxito (véase más adelante).

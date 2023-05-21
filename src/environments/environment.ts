@@ -259,4 +259,78 @@ export const environment = {
       name: 'Simbiontes',
     },
   ],
+  rulesLinks: [
+    {
+      url: 'tabla-de-puntos-de-victoria',
+      name: 'Tabla de puntos de victoria',
+    },
+    {
+      url: 'puntuacion-de-rasgos',
+      name: 'Puntuación de rasgos',
+    },
+  ],
+  interpretingRulesLinks: [
+    {
+      url: 'interpretando-las-reglas',
+      name: 'Interpretando las reglas',
+    },
+    {
+      url: 'cuando-no-usar-las-reglas',
+      name: 'Cuándo no usar las reglas',
+    },
+    {
+      url: 'dados',
+      name: 'Dados',
+    },
+    {
+      url: 'tiempo',
+      name: 'Tiempo',
+    },
+    {
+      url: 'medida',
+      name: 'Medida',
+    },
+  ],
+  actionsRulesLinks: [
+    {
+      url: 'iniciativa',
+      name: 'Iniciativa',
+    },
+    {
+      url: 'tiradas-de-acierto',
+      name: 'Tiradas de acierto',
+    },
+    {
+      url: 'tabla-de-modificadores-al-exito',
+      name: 'Tabla de modificadores al éxito',
+    },
+    {
+      url: 'rangos-de-acierto-demasiado-altos',
+      name: 'Rangos de acierto demasiado altos',
+    },
+    {
+      url: 'efectos-de-un-exito',
+      name: 'Efectos de un éxito',
+    },
+    {
+      url: 'reglas-de-acciones-complejas',
+      name: 'Reglas de acciones complejas (reglas avanzadas)',
+    },
+    {
+      url: 'acciones-y-habilidades-complementarias',
+      name: 'Acciones y habilidades complementarias',
+    },
+    {
+      url: 'acciones-prolongadas',
+      name: 'Acciones prolongadas',
+    },
+    {
+      url: 'segundas-oportunidades',
+      name: 'Segundas oportunidades',
+    },
+    {
+      url: 'habilidades-no-entrenadas-y-rangos-de-acierto',
+      name: 'Habilidades no entrenadas y rangos de acierto',
+    },
+  ],
 };
